@@ -8,7 +8,7 @@ import StateToprops from './Components/stateToprops.js';
       <div>
        Hello World
        <TestComponents country="India"/>
-       <StateToprops country="Pak"/>
+       <StateToprops country="Pakistan"/>
       </div>
     )
   }

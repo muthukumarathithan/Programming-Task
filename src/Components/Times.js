@@ -18,6 +18,7 @@ export default class Times extends Component {
       }
     
       componentWillUnmount() {
+
         clearInterval(this.interval);
       }
 
